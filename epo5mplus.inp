@@ -1,0 +1,12 @@
+TITLE: epo4;
+DATA: FILE IS M:/epos5.dat;
+VARIABLE: NAMES ARE ent enhan retrib cthreat resmot;
+    USEVARIABLES ARE ent enhan retrib cthreat resmot;
+ANALYSIS: BOOTSTRAP = 10000;
+MODEL: enhan ON ent;
+    cthreat ON ent enhan;
+    resmot ON ent enhan;
+    retrib ON ent enhan cthreat resmot;
+    cthreat WITH resmot;
+MODEL INDIRECT: retrib IND ent;
+OUTPUT: TECH1 TECH4 STANDARDIZED CINTERVAL;
