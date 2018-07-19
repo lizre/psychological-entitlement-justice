@@ -1,6 +1,6 @@
 # psychological-entitlement-justice
 
-Data and SPSS syntax for empirical paper, "Retribution as hierarchy regulation: Hierarchy preferences moderate the effect of offender socioeconomic status on support for retribution", published in the European Journal of Social Psychology, by Liz Redford and Kate A. Ratliff.
+Data and SPSS syntax for empirical paper, "Pride and punishment: Entitled people's self‐promoting values motivate hierarchy‐restoring retribution", published in the European Journal of Social Psychology, by Liz Redford and Kate A. Ratliff.
 
 All files copied directly from the <a href = "https://osf.io/5bgsr/">Open Science Framework page</a>. Access the pre-print manuscript <a href = "https://lizredford.weebly.com/uploads/4/9/3/2/49329541/redfordratliff.2017.entitlement_and_justice_orientation.pdf">here</a> or in this repo, and the journal version <a href = "https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.2328">here</a> (paywalled).
 
