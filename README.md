@@ -13,7 +13,7 @@ What is the purpose of punishment? The current research shows that for entitled 
 
 <b>Figure 2 from manuscript:</b> Direct and mediation model effects in Study 5
 
-<img src="https://github.com/lizredford/psychological-entitlement-justice/blob/master/entitlement-justice%20path-model.png" width="850">
+<img src="https://github.com/lizredford/psychological-entitlement-justice/blob/master/entitlement-justice%20path-model.png" width="800">
 
 Unstandardized coefficients shown.
 <br>N = 582; Correlation between crime as a threat to hierarchies and power/status restoration motives = .43, p < .001.
