@@ -13,10 +13,10 @@ What is the purpose of punishment? The current research shows that for entitled 
 
 <b>Figure 2 from manuscript:</b> Direct and mediation model effects in Study 5
 
-<img src="https://github.com/lizredford/psychological-entitlement-justice/raw/master/entitlement-justice-path-model.png" width="850">
+<img src="https://github.com/lizredford/psychological-entitlement-justice/blob/master/entitlement-justice%20path-model.png" width="850">
 
 Unstandardized coefficients shown.
-N = 582; Correlation between crime as a threat to hierarchies and power/status restoration motives = .43, p < .001.
-Specific indirect effect of entitlement on retribution via crime as a threat to hierarchies: b = 0.04 [0.01, 0.06], p = .001.
-Specific indirect effect of entitlement on retribution via power/status restoration motives: b = 0.06 [0.03, 0.09], p < .001.
-Full size in repo and in manuscript. Other figures in manuscript.
+<br>N = 582; Correlation between crime as a threat to hierarchies and power/status restoration motives = .43, p < .001.
+<br>Specific indirect effect of entitlement on retribution via crime as a threat to hierarchies: b = 0.04 [0.01, 0.06], p = .001.
+<br>Specific indirect effect of entitlement on retribution via power/status restoration motives: b = 0.06 [0.03, 0.09], p < .001.
+<br>Full size in repo and in manuscript. Other figures in manuscript.
